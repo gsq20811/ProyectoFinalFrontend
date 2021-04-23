@@ -1,0 +1,15 @@
+{
+  "name": "app-saveroz",
+  "version": "1.0.0",
+  "description": "Aplicación para regresar con la Mili",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Spika Org",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
